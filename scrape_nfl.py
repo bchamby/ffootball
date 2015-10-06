@@ -25,7 +25,7 @@ for nfl_position, nfl_url in sites.iteritems():
     nfl_table = soup.findAll("div", { "class" : "tableWrap" })
 
     #Write HTML file
-    output_file = open('./output/' + nfl_position + '.html', 'w')
+    output_file = open('../data/output/' + nfl_position + '.html', 'w')
     output_file.write(repr(nfl_table))
     output_file.close()
 
