@@ -1,5 +1,5 @@
 #################
-# Author: Brad Chamberlain
+# Author: Brad Chamberlain, Eric Chamberlain
 # Summary: Scrapes NFL's fantasy website for projection data at each position, QB, RB, WR, TE, K, and D/ST.
 # TODO: Break out sites into separate sites.txt file and import / loop
 #################

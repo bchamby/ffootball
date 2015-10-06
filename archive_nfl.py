@@ -1,5 +1,5 @@
 ########################
-# Author: Brad Chamberlain, Eric Chamberlain
+# Author: Brad Chamberlain, Eric Chamberlain 
 # Summary: Moves NFL fantasy data to archive folder.
 ########################
 
