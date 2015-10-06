@@ -12,6 +12,7 @@ files = [
 'nfl_rb.html'
 'nfl_te.html'
 'nfl_wr.html'
+]
 
 CurrentDate = time.strftime("%Y-%m-%d")
 
